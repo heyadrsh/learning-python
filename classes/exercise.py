@@ -9,3 +9,6 @@ john.talk()
 
 priya=Person("Priya Patel")
 priya.talk()
+
+nishant=Person("Nishant Kumar")
+nishant.talk()
