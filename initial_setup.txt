@@ -1,0 +1,5 @@
+This is the initial setup file for my Python learning journey.
+Started on: January 12, 2023
+Repository: learning-python
+
+This repository will track my progress in learning Python programming. 
