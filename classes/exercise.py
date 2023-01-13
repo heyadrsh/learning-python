@@ -7,3 +7,5 @@ class Person:
 john=Person("John Smilth")
 john.talk()
 
+priya=Person("Priya Patel")
+priya.talk()
