@@ -15,3 +15,6 @@ nishant.talk()
 
 nishani=Person("Nishani Kumari")
 nishani.talk()
+
+risabh=Person("Rishabh")
+risabh.talk()
